@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-<img src="odev.jpg">
+<img src="odev.png">
 
